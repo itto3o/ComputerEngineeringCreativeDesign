@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CogSimProj>
+  <ProjectInfo ID="aabc755e-331f-4db3-b6a4-6c7efc322827" ItemID="1" Type="RobotSimProject" Version="2.6.0" />
+  <ProjectData>
+    <Details Creator="" Company="" Description="" Email="" Website="" />
+    <State CurrentEnvironment="268435456" />
+    <Directories>
+      <Directory DirectoryName="Materials" />
+      <Directory DirectoryName="Meshes" />
+      <Directory DirectoryName="Resources" />
+      <Directory DirectoryName="Scripts" />
+      <Directory DirectoryName="Textures" />
+      <Directory DirectoryName="Environments">
+        <Dependency Name="Sandbox (EV3).rsim" ItemID="268435456" Type="Environment" Path="" Link="False" />
+      </Directory>
+      <EV3Directory DirectoryName="EV3 Educator Vehicle" />
+    </Directories>
+  </ProjectData>
+</CogSimProj>
